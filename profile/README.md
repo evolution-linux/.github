@@ -1,5 +1,5 @@
 # IMPORTANT
 
-This profile has been moved to codeberg
+This is now being hosted on centrifuge
 
-Please visit https://codeberg.org/evolutionos
+Please visit https://ada.ctaposter.xyz/centrifuge/evolutionos/
