@@ -1,5 +1,4 @@
 # IMPORTANT
+EvolutionOS has been discontinued. Please do not use it.
 
-This is now being hosted on centrifuge
-
-Please visit https://hectabit.org/centrifuge/evolutionos/
+(For more up-to-date archives, view [Ailur Git](https://git.ailur.dev/EvolutionOS/evolutionOS-Website))
